@@ -79,7 +79,7 @@ export default function Album() {
               color="textPrimary"
               gutterBottom
             >
-              Panel Three
+              Modified Panel
             </Typography>
             <Typography
               variant="h5"
